@@ -13,10 +13,10 @@ export default function Home() {
 
         <div className="max-w-xl">
           <h2 className="text-xl font-semibold mb-4">
-            this is a starter template
+            This is a starter template.
           </h2>
           <p className="text-gray-600 dark:text-gray-300 mb-6">
-            describe your idea and we will build it for you!
+            Your AI agent is working and you should see changes soon.
           </p>
         </div>
       </main>
