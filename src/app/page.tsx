@@ -13,12 +13,10 @@ export default function Home() {
 
         <div className="max-w-xl">
           <h2 className="text-xl font-semibold mb-4">
-            Build your next product faster
+            this is a starter template
           </h2>
           <p className="text-gray-600 dark:text-gray-300 mb-6">
-            make.inc provides the tools, components, and resources to help
-            startups and developers launch production-ready applications in
-            days, not months.
+            describe your idea and we will build it for you!
           </p>
         </div>
       </main>
